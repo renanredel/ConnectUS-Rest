@@ -1,0 +1,38 @@
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csprojAssemblyReference.cache
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csproj.CoreCompileInputs.cache
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.dll.config
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.pdb
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\Newtonsoft.Json.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\Newtonsoft.Json.xml
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.xml
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csproj.CopyComplete
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.dll
+C:\Users\Augus\OneDrive\Documentos\Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.pdb
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.dll.config
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\RestServer.pdb
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\Newtonsoft.Json.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\Newtonsoft.Json.xml
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.xml
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csprojAssemblyReference.cache
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csproj.CoreCompileInputs.cache
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.csproj.CopyComplete
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.dll
+C:\Users\Augus\OneDrive\Documentos\6 - Faculdade\Faculdade - 9 Semestre\Integrado III\Visual Studio Projects\RestServer\RestServer\RestServer\obj\Debug\RestServer.pdb
